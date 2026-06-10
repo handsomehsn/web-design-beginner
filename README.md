@@ -52,6 +52,15 @@ Bu projeyi GitHub Pages ile hızlıca yayınlayabilirsiniz:
 
 Not: Eğer `main` yerine `gh-pages` dalı kullanmak isterseniz, `gh-pages` dalı oluşturup içeriği oraya deploy edebilirsiniz.
 
+
+### Kullanılan Teknolojiler
+
+- **[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)** - Semantik yapı ve web standartları
+- **[CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)** - Responsive tasarım, Flexbox, Grid ve animasyonlar
+- **[JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** - Etkileşim, form yönetimi ve LocalStorage
+- **[Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)** - Modern ve okunabilir font ailesi
+
+- 
 ## Özellikler
 
 - `Hero` bölümü
